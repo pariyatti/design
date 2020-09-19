@@ -15,6 +15,10 @@ Open Designs by Pariyatti are openly-licensed design and intellectual works crea
   - [Figma Exports](https://github.com/pariyatti/design/tree/master/www.pariyatti.app)
   - [www.pariyatti.app on Figma](https://www.figma.com/file/sfTvwQcDTYBfmbMS4bdaoq/website)
 
+## Technical Details
+
+This repository uses [`git-lfs` (Git Large File Support)](https://git-lfs.github.com) as per the `.gitattributes` file in the root directory.
+
 ## License and Copyright
 
 This work is licensed under a
