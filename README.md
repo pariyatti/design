@@ -2,6 +2,19 @@
 
 Open Designs by Pariyatti are openly-licensed design and intellectual works created for use in the Pariyatti Open Source projects.
 
+## Where are the designs?
+
+- Mobile App
+  - [Renders](https://github.com/pariyatti/design/tree/master/mobile-app/renders)
+  - [.sketch Files](https://github.com/pariyatti/design/tree/master/mobile-app/src)
+- Kosa
+  - [Whimsical Exports](https://github.com/pariyatti/design/tree/master/kosa)
+  - [Publisher on Whimsical](https://whimsical.com/JwhtJKYRasEaSk91s7nLuG)
+  - [Library on Whimsical](https://whimsical.com/5uyY3q9Pqv2iiWBbH29FfD)
+- Website
+  - [Figma Exports](https://github.com/pariyatti/design/tree/master/www.pariyatti.app)
+  - [www.pariyatti.app on Figma](https://www.figma.com/file/sfTvwQcDTYBfmbMS4bdaoq/website)
+
 ## License
 
 This work is licensed under a
